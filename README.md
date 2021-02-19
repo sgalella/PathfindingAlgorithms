@@ -1,5 +1,5 @@
 # Pathfinding Algorithms
-Collection of pathfinding algorithms implemented in python using `Tkinter` and `Pygame` as graphical interfaces.
+Collection of [pathfinding algorithms](https://en.wikipedia.org/wiki/Pathfinding) implemented in python using `Tkinter` and `Pygame` as graphical interfaces.
 
 <p align="center">
     <img width="820" height="480" src="images/search.gif">
